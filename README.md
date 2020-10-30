@@ -2,7 +2,7 @@
 This work is done using CSS grids. I also worked on the tablet responsiveness (700px) and mobile phone responsiveness (500px)
 
 ## Live Demo
-[responsive-START.css](https://raw.githack.com/Elotachukwu/CSS_grid/main/Responisve%20Website/responsive-START.html)
+[responsive-START.css](https://raw.githack.com/Elotachukwu/CSS_grid/main/Responsive_Website/responsive-START.html)
 
 ## Author
 * Chiagoziem Ede
