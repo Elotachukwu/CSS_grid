@@ -1,7 +1,7 @@
 /*
-Hello!
-These are some base styles so that our tutorial looks good.
-Let's go through the important bits real quick
+  Hello!
+  These are some base styles so that our tutorial looks good.
+  Let's go through the important bits real quick
 */
 :root {
   --yellow: #ffc600; /*This is just some simple css variables*/
@@ -54,12 +54,12 @@ img {
 }
 
 /* PLEASE DO NOT TOUCH THE ABOVE STYLES
-  WRITE YOUR OWN STYLES BELOW. GOOD LUCK */
-  * {
-    margin: 0;
-    padding: 0;
-    border: 0;
-  }
+ WRITE YOUR OWN STYLES BELOW. GOOD LUCK */
+ * {
+   margin: 0;
+   padding: 0;
+   border: 0;
+ }
 
 .top {
   display: grid;
