@@ -117,11 +117,19 @@ img {
   display: none;
 }
 
-.menu button {
+.menu .accordion {
   font-size: 1.5rem;
   font-weight: bold;
   margin-bottom: 3rem;
+  cursor: pointer;
+  transition: 0.2s;
 }
+
+.navDiv {
+  display: none;
+  overflow: hidden;
+}
+
 .menu ul {
   display: grid;
   grid-template-columns: repeat(5, 1fr);
